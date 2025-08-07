@@ -1,0 +1,16 @@
+# Sistem faylları
+.DS_Store
+
+# IDE faylları
+.vscode/
+.idea/
+
+# Loglar
+*.log
+
+# Cache
+node_modules/
+.cache/
+
+# Şəxsi şifrələr
+.env
